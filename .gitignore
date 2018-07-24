@@ -1,0 +1,5 @@
+.vscode/
+.idea/
+.torrent.bolt.db
+debug
+TorrentTest*
